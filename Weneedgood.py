@@ -1,1 +1,1 @@
-print('SO GOOD')
+print('Loading data from home')
